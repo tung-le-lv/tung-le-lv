@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Tung
 
-<!--
-**tung-le-lv/tung-le-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I care about
+- .NET ecosystem.
+- Domain-Driven Design (DDD)
+- Event-driven & microservices systems
+- Cloud-native architecture
+- Long-term system evolution
 
-Here are some ideas to get you started:
+DDD isn’t just a pattern for me — it’s a **way of thinking** about software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s connect
+- Open to discussions on architecture, DDD, and system design
