@@ -8,6 +8,3 @@
 - Long-term system evolution
 
 DDD isn’t just a pattern for me — it’s a **way of thinking** about software.
-
-## Let’s connect
-- Open to discussions on architecture, DDD, and system design
