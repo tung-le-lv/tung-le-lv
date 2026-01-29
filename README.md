@@ -2,8 +2,8 @@
 
 ## What I care about
 - .NET ecosystem.
-- Domain-Driven Design (DDD)
-- Event-driven & microservices systems
+- Domain-Driven Design
+- Event-driven & microservices architecture
 - Cloud-native architecture
 - Long-term system evolution
 
