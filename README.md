@@ -1,7 +1,8 @@
 # I'm Tung
 
 ## What I care about
-- .NET ecosystem
 - Domain-Driven Design
-- Event-driven & microservices architecture
-- Cloud-native architecture
+- Event-driven Architecture
+- Microservices Architecture
+- Cloud-native Architecture
+- .NET Ecosystem
