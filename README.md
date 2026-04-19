@@ -2,7 +2,7 @@
 
 ## What I care about
 - Domain-Driven Design
-- Event-driven Architecture
+- Event-Driven Architecture
 - Microservices Architecture
-- Cloud-native Architecture
+- Cloud-Native Architecture
 - .NET Ecosystem
