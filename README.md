@@ -5,4 +5,3 @@
 - Event-Driven Architecture
 - Microservices Architecture
 - Cloud-Native Architecture
-- .NET Ecosystem
